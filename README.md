@@ -29,7 +29,7 @@ Follow these steps to set up the environment and run the benchmark.
 ### 1. Clone the Repository
 Download this repository to your computer.
 ```bash
-git clone [<your-repo-url>](https://github.com/hayrullahalper/NumPieBPP)
+git clone [https://github.com/hayrullahalper/NumPieBPP]
 cd NumPieBPP
 ```
 
