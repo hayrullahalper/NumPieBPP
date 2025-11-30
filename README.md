@@ -1,4 +1,4 @@
-# SQL vs. Graph Database: The "Friends of Friends" Benchmark
+# SQL vs Graph Database: The "Friends of Friends" Benchmark
 
 This project compares the performance of a **Relational Database (PostgreSQL)** and a **Graph Database (Neo4j)**.
 
